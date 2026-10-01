@@ -10,8 +10,12 @@
 // Add your code right below, good luck!
 
 
+const firstName = "Carlos"
+const secondName = "Stevenson"
+const thisYear = 1965
+const birthYear = 1947
 
-
+let greeting = `Hello! My name is ${firstName} ${lastName} and I am ${thisYear - birthYear} years old.`
 
 // Do not change this
 module.exports = {
